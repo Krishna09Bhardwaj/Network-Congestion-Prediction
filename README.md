@@ -57,6 +57,13 @@ Models are evaluated using comprehensive metrics:
 - Permutation importance analysis
 - Visual representation of feature significance
 
+# Output
+## Snapshots of Jupyter notebook 
+<img width="1725" alt="SCR-20250429-leed" src="https://github.com/user-attachments/assets/01d43305-a8f8-4f83-82d0-95ed1096c1eb" />
+<img width="1227" alt="SCR-20250429-ldyy" src="https://github.com/user-attachments/assets/1b0f7934-5419-4879-9120-5ff3ff7f5e0d" />
+
+
+
 ## Technical Implementation
 - Language: Python 3.11
 - Key Libraries:
